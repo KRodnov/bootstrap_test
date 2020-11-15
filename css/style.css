@@ -133,12 +133,12 @@ display: flex;
 }
 
 .left_stage {
-    width: 50%;
+    width: 47%;
 }
 
 
 .right_stage {
-    width: 50%;
+    width: 47%;
     justify-content: flex-start;
 }
 
